@@ -1,6 +1,0 @@
-touch f1
-cat f1
-vim f1
-vi f1
-echo "this" > f1
-cat >  f1
